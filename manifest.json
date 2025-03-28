@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "放送事故再現画像メーカー",
+  "version": "1.0",
+  "description": "放送事故の再現画像を作成するChrome拡張機能",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
+
